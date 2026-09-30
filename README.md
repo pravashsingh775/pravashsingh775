@@ -1,7 +1,7 @@
 <div align="center">
 
   # ⚡ Pravash Singh
-  ### 🚀 AI/ML Engineer & Researcher | Inventor of "Smart Bijuka" (Patent Pending) | 5x National Hackathon Champion
+  ### 🚀 AI/ML Engineer & Researcher | Inventor of "Smart Bijuka" (Patent In Process) | 5x National Hackathon Champion
 
   <br/>
 
