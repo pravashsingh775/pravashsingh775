@@ -1,18 +1,23 @@
 <div align="center">
 
-  # ⚡ Hi there, I'm Pravash Singh! 👋
+  # ⚡ Pravash Singh
   ### 🚀 AI/ML Engineer & Researcher | Inventor of "Smart Bijuka" | 5x National Hackathon Champion
 
   <br/>
 
-  <!-- Dynamic Typing Header Animation -->
+  <!-- Dynamic Typing Animation Banner -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1000&color=00D2FF&center=true&vCenter=true&width=680&lines=AI+%2F+ML+Engineer+%26+Deep+Learning+Researcher+%F0%9F%A7%A0;Creator+of+Smart+Bijuka+(AI-IoT+Crop+Protection)+%F0%9F%8C%BE;5x+National+Hackathon+Champion+%F0%9F%8F%86;Author+of+DSA+Handbook+in+Modern+C%2B%2B+%F0%9F%92%BB;Building+Edge+AI+%26+Scalable+Intelligent+Systems+%E2%9C%A8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=1000&color=00D2FF&center=true&vCenter=true&width=700&lines=AI+%2F+ML+Engineer+%26+Deep+Learning+Researcher+%F0%9F%A7%A0;Inventor+of+Smart+Bijuka+(AI-IoT+Crop+Protection)+%F0%9F%8C%BE;5x+National+Hackathon+Champion+%F0%9F%8F%86;Author+of+DSA+Handbook+in+Modern+C%2B%2B+%F0%9F%92%BB;Building+Edge+AI+%26+Autonomous+Vision+Systems+%E2%9C%A8" alt="Typing SVG" />
   </a>
 
   <br/><br/>
 
-  <!-- Social Badges -->
+  <!-- Profile Views Counter Badge -->
+  <img src="https://komarev.com/ghpvc/?username=pravashsingh775&color=00d2ff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+  
+  <br/><br/>
+
+  <!-- Social Connect Badges -->
   <a href="https://linkedin.com/in/pravashsingh">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -30,43 +35,27 @@
 
 ---
 
-## 👨‍💻 Executive Summary
+## 👋 About Me
 
-> *"Innovating at the intersection of Computer Vision, Deep Learning, and Embedded Hardware to solve critical real-world challenges."*
-
-- 🧠 **AI/ML & Vision Systems:** Specializing in **Computer Vision, Object Detection (YOLO), and Edge AI** for real-time inference.
-- 💡 **Flagship Innovation:** Inventor of **Smart Bijuka** — an autonomous AI-IoT crop-protection innovation integrating real-time edge vision with renewable solar power.
-- 🏆 **Competitive Engineering:** **5x National Level Hackathon Champion**, known for rapid prototyping, robust system architecture, and shipping MVPs within 36-hour sprints.
-- 💻 **Core Software Foundations:** Passionate about high-performance engineering in modern **C++**, actively building the [DSA Handbook](https://github.com/pravashsingh775/DSA_Handbook).
+```yaml
+name:      Pravash Singh
+role:      AI/ML Engineer & Researcher
+innovator: Creator of "Smart Bijuka" (AI-IoT Autonomous Crop Defense System)
+honors:    5x National Level Hackathon Winner
+interests: [Computer Vision, Edge AI, Deep Learning, IoT, Scalable Algorithms]
+stack:     [C++, Python, PyTorch, TensorFlow, OpenCV, TypeScript, Linux]
+mission:   "Building high-impact Edge AI innovations and high-performance algorithms."
+```
 
 ---
 
-## 🛠️ Technical Arsenal & Tech Stack
+## 🧰 Toolbox & Technologies
 
 <div align="center">
 
-### 💻 Languages & Core
-![C++](https://img.shields.io/badge/C%2B%2B17%2F20-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-
-### 🤖 AI, Deep Learning & Computer Vision
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-### ⚙️ Developer Tools & Hardware
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=cpp,py,c,ts,js,pytorch,tensorflow,opencv,scikitlearn,numpy,pandas,git,github,linux,raspberrypi,vscode,docker,nodejs,react,postman&perline=10" alt="Tech Stack" />
+</a>
 
 </div>
 
@@ -84,7 +73,7 @@
       </p>
       <p>Autonomous AI-powered crop defense system utilizing Edge Computer Vision, IoT sensors, and solar power for real-time animal intrusion detection and adaptive acoustic/visual deterrence.</p>
       <ul>
-        <li>⚡ <b>Real-Time Inference:</b> Low-latency object detection on edge devices.</li>
+        <li>⚡ <b>Real-Time Inference:</b> Low-latency object detection on edge hardware.</li>
         <li>🔋 <b>Eco-Friendly:</b> Off-grid solar-powered design for agricultural sustainability.</li>
       </ul>
     </td>
@@ -105,26 +94,42 @@
 
 ---
 
-## 📊 Live GitHub Analytics & Activity
+## 📊 GitHub Analytics
 
 <div align="center">
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pravashsingh775&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pravashsingh775&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=pravashsingh775&theme=tokyonight&hide_border=true" />
 
   <br/><br/>
 
-  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=pravashsingh775&theme=tokyonight&hide_border=true" />
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pravashsingh775&layout=donut&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-## 🏆 Key Milestones & Achievements
+## 🏆 GitHub Trophies
 
-- 🥇 **5x National Level Hackathon Winner** in AI, Edge IoT & AgriTech innovation categories.
-- 💡 **Lead Inventor & Systems Architect** for the *Smart Bijuka AI-IoT* initiative.
-- 📜 **Applied AI Researcher** focused on lightweight neural architectures for edge deployment.
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pravashsingh775&theme=tokyonight&no-bg=true&no-frame=true&margin-w=4" alt="GitHub Trophies" />
+</div>
+
+---
+
+## 🐍 Live Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/pravashsingh775/pravashsingh775/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
+</div>
+
+---
+
+## 🧊 3D Contribution Graph
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/pravashsingh775/pravashsingh775/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
+</div>
 
 ---
 
