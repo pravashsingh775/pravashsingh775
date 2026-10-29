@@ -257,7 +257,7 @@ profile:
 ### 🏆 GitHub Trophies & Milestones
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pravashsingh775&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <p><strong>5× National Hackathon Champion &nbsp;·&nbsp; IEEE YESIST 12 Global 3rd Place &nbsp;·&nbsp; International NRM Conference 1st Position</strong></p>
 </div>
 
 ---
