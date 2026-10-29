@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- 🌟 Ultra-Modern Dynamic Hero Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,35:0f172a,70:1e1b4b,100:0284c7&height=260&section=header&text=Pravash%20Singh&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=36&subtext=AI%2FML%20Engineer%20%E2%80%A2%20Edge%20AI%20%26%20IoT%20Inventor%20%E2%80%A2%20Agentic%20AI%20%E2%80%A2%205x%20Hackathon%20Winner&subfontSize=16&subfontColor=38bdf8&subfontAlignY=62" width="100%" alt="Pravash Singh Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,35:0f172a,70:1e1b4b,100:0284c7&height=280&section=header&text=Pravash%20Singh&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=35&subtext=B.Tech%20AI%2FML%20%E2%80%A2%20Applied%20AI%2FML%20Engineer%20%E2%80%A2%20Computer%20Vision%20%26%20Edge%20AI&subfontSize=18&subfontColor=7dd3fc&subfontAlignY=60" width="100%" alt="Pravash Singh | B.Tech AI/ML, Applied AI/ML Engineer, Computer Vision and Edge AI" />
 
   <br/>
 
